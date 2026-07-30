@@ -18,13 +18,43 @@ I believe in learning by building, and I'll be using this GitHub to document my 
 - Git & GitHub
 - Linux Basics
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
+### 💻 Programming
 - Python (Beginner)
-- HTML & CSS (Learning)
-- Basic Networking
+
+### 🌐 Networking
+- Computer Networking Fundamentals
+- TCP/IP Basics
+- IP Addressing
+- Basic Network Concepts
+
+### 🛡️ Cybersecurity
+- Cybersecurity Fundamentals (Learning)
+- Ethical Hacking Fundamentals (Learning)
+- Cryptography Basics (Learning)
+
+### 🧰 Tools
 - Git & GitHub (Learning)
+- VS Code
 - OpenCV (Beginner)
+
+### 🐧 Currently Exploring
+- Linux
+- Networking & Network Security
+- Web Security
+- CTF Challenges
+
+## 🎯 Current Goals
+
+- 📚 Strengthen my cybersecurity fundamentals
+- 🌐 Improve my networking knowledge
+- 🐍 Become comfortable with Python
+- 🐧 Learn Linux fundamentals
+- 🏴 Participate in beginner CTF challenges
+- 🛠️ Build practical cybersecurity projects
+- 🌱 Contribute to open-source projects
+- 💼 Prepare for cybersecurity internships and placements
 
 ## 📂 Projects
 
